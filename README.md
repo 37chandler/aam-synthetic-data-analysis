@@ -3,7 +3,7 @@
 This assignment asks you continue to work with the synthetic data
 set from the previous assignment. If you didn't do that assignment but would like to work 
 on this one, that's fine, but you'll need to build a quick regression model on the data
-in order to do the first part of this. You have two weeks to submit your first
+in order to do the first part of this. You have ten days to submit your first
 draft on this assignment. 
 
 ## Tasks
