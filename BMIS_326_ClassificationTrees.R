@@ -35,6 +35,9 @@ grad.test <- grad[(bound+1):nrow(grad), ]
 #This is your model!
 fit <- rpart(Admit ~ GRE + GPA, method="class", data=grad.train)
 
+# Note, this previous line is for classificaiton trees. For a regression model you
+# should do `method="anova"`
+
 #This line of code assigns the variable called depvariable to the name of the dependent variable
 #in the model above.  We will use this variable below in the ROC curve code.  Change "Admit" to the 
 #name of your dependent variable.
