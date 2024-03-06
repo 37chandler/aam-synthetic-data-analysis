@@ -1,6 +1,7 @@
 # Let's avoid committing the data
 *.txt
 *.csv
+.DS_Store
 
 
 # History files
