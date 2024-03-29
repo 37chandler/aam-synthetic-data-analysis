@@ -17,6 +17,7 @@ you how good a job the models did uncovering the data generating process.
 5. Fit a tree based model using `rpart`. I've included some code from BMIS 326/526 that you can use as a refresher on this technique.
 6. Repeat the training/test process for the tree model.
 7. Write up your results in an RMD, similar to what you've done the last couple of times. Report the full regression model and the accuracy. Plot and describe the tree model and report the accuracy. Knit to HTML, PDF, or Word. 
-8. Post your knitted results to the forum on Moodle at the bottom of the Week 8 page. Let the data creator know you've posted so they can review your work. 
+8. Post your knitted results to the forum on Moodle at the bottom of the Week 8 page. Let the data creator know you've posted so they can review your work.
+9. As always, also commit and push your assignment so that I can review it as well.
 
 I implore you: read your finished knitted document! By this point in the semester you should be producing reports that look good and are free of typos. 
